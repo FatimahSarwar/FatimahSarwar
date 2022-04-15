@@ -1,7 +1,7 @@
 ### Hi I am Fatimah! 👋
 
 
-- 🔭 I’m a Full Stack Web developer profiecient in JavaScript, React, Node, Express, HTML/CSS.
+- 🔭 I’m a Full Stack Web developer with Technical knowledge in JavaScript, React, Node, Express, HTML/CSS.
 - 🌱 I’m currently learning Data Structures and Algorithms to prepare for the General Coding Assessment by CodeSignal.
 - 👯 I’m looking for developers who would like to study Algorithms together.
 - 💬 Ask me about NYC restaurant recommendations!
